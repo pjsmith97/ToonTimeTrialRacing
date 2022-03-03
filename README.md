@@ -12,15 +12,25 @@ The project was meant to build upon my graphical skills, so seperate from the ma
 The main artistic drive for the game was the style. I was aiming for a classic cartoon aesthetic, with black outlines and almost everything having an elastic feel to it (ala. Cuphead (2017) or Sly Cooper (2002)).
 
 Controls:
-1 - Left,
-2 - Right,
-6 - Pause,
-9 - Change Lighting (Toggle Dark Mode),
-0 - Change Camera Mode,
-Mouse - (In Free View) Change Camera angle,
-W - (In Free View) Forward,
-S - (In Free View) Back,
-A - (In Free View) Left,
-D - (In Free View) Right,
+1 - Left
+
+2 - Right
+
+6 - Pause
+
+9 - Change Lighting (Toggle Dark Mode)
+
+0 - Change Camera Mode
+
+Mouse - (In Free View) Change Camera angle
+
+W - (In Free View) Forward
+
+S - (In Free View) Back
+
+A - (In Free View) Left
+
+D - (In Free View) Right
+
 ‘ESC’ - Close Game
 
