@@ -12,6 +12,7 @@ The project was meant to build upon my graphical skills, so seperate from the ma
 The main artistic drive for the game was the style. I was aiming for a classic cartoon aesthetic, with black outlines and almost everything having an elastic feel to it (ala. Cuphead (2017) or Sly Cooper (2002)).
 
 Controls:
+
 1 - Left
 
 2 - Right
